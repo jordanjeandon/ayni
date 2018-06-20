@@ -1948,8 +1948,12 @@ a:hover {
     bottom: 0px;
     left: 0px;
     right: 0px;
+    background-color: white;
 }
 .nav-app .container {
     padding-bottom: 10px;
     padding-top: 13px;
+}
+.grey-body-bg {
+    background-color: #F7F9FC;
 }
