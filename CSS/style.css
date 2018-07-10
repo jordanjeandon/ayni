@@ -1958,3 +1958,18 @@ a:hover {
 .grey-body-bg {
     background-color: #F7F9FC;
 }
+.programme-img {
+    max-width: 100px;
+}
+.transform {
+    transform: translate(-13px, 0px);
+}
+.view {
+    padding-bottom: 150px;
+}
+.magasin-list i {
+    color: limegreen;
+    font-size: 17px;
+    padding-right: 4px; 
+    padding-bottom:10px;
+}
