@@ -1965,11 +1965,26 @@ a:hover {
     transform: translate(-13px, 0px);
 }
 .view {
-    padding-bottom: 150px;
+    padding-bottom: 100px;
 }
 .magasin-list i {
     color: limegreen;
-    font-size: 17px;
-    padding-right: 4px; 
-    padding-bottom:10px;
+    font-size: 16px;
+    padding-right: 2px; 
+    
+}
+.magasin-list li {
+    padding-bottom:15px; 
+    
+}
+
+#prog-EMAIL {
+    outline: none;
+    width: 100%;
+    border: none;
+    color: #919191;
+    font-size: 16px;
+    -webkit-font-smoothing : antialiased;
+	text-rendering: optimizeLegibility;
+	font-variant-numeric: proportional-nums;   
 }
